@@ -92,6 +92,11 @@
 
 ## Docker-Compose 部署
 
+```bash
+git clone https://github.com/Yanyutin753/RefreshToV1Api.git
+cd RefreshToV1Api
+```
+
 仓库内已包含相关文件和目录，拉到本地后修改 docker-compose.yml 文件里的环境变量后运行`docker-compose up -d`即可。
 
 ## config.json 变量说明：
